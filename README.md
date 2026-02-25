@@ -1,4 +1,4 @@
-<img width="1918" height="1198" alt="Screenshot 2026-02-25 140800" src="https://github.com/user-attachments/assets/16e2b7c6-1618-4353-97e0-4028a7517dd8" /># 3b.CREATION FOR CHAT USING TCP SOCKETS
+## 3b.CREATION FOR CHAT USING TCP SOCKETS
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -43,8 +43,9 @@ while True:
 ```
 
 ## OUPUT
+<img width="1918" height="1198" alt="Screenshot 2026-02-25 140800" src="https://github.com/user-attachments/assets/16e2b7c6-1618-4353-97e0-4028a7517dd8" /># 
 
-<img width="1918" height="1198" alt="Screenshot 2026-02-25 140800" src="https://github.com/user-attachments/assets/61795347-97e2-48cb-a5ca-e202b2502745" />
+
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
